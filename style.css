@@ -5,6 +5,7 @@
 }
 
 .container {
+    max-height: 1450px;
     max-width: 1450px;
     margin: auto;
 }
@@ -65,6 +66,7 @@
 
 .container3 {
     margin-top: 70px;
+    margin-bottom: 20px`;
 }
 
 .container3_img {
